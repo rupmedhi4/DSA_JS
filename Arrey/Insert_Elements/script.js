@@ -13,6 +13,8 @@
 //     }
 // }
 
+
+
 function insertEl(){
   
 let data = [2, 10, 35, 48, 59];
@@ -32,3 +34,5 @@ for(let i= data.length-1; i>=0; i--){
 console.log(data)
 
 }
+
+
